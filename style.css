@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@100&display=swap');
+  
+
+
+
+body{
+    background: rgb(34,150,184);
+    background: radial-gradient(circle, rgba(34,150,184,1) 27%, rgba(114,9,121,1) 47%, rgba(184,0,255,1) 97%);
+    
+    
+    
+    font-family: 'Bitter', serif;
+    height: 100vh;    
+
+    
+    
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+   
